@@ -1,4 +1,4 @@
-<img alt="Project Logo" src="https://github.com/DevanandSB/DevanandSB/tree/main/images/DevanandSB.png" target="_blank" width = 360 height = 120 />
+<img alt="Banner" align = "center" src="https://github.com/DevanandSB/DevanandSB/blob/main/images/DevanandSB.png" target="_blank" width = 750 height = 250 />
 
 
 <h1 align="center">Hi 👋, I'm Devanand S B</h1>
