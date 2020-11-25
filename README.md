@@ -2,6 +2,9 @@
 # I'm Devanand S B
 ### Android Developer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevanandSB&label=Profile%20views&color=129e00&style=plastic" alt="Devanand S B" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 - 🔭 Working at Educatie Project!
 - 🌱 I’m currently learning Advanced Android Development
 - 🤔 I’m looking for help with career 🏢
