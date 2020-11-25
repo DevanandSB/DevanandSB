@@ -12,6 +12,11 @@
 - 📫 Reach me at Telegram: @DevanandSB
 - 🐈 I love cats 😸
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/sbdevanand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="khushboogoel01" height="30" width="40" /></a>
+<a href="https://www.instagram.com/developer_deva/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Developer_Deva" height="30" width="40" /></a>
+</p>
 
 ### Stats
 <a href="#stats">
