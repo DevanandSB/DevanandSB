@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/DevanandSB/DevanandSB/blob/main/Video/DevanandSB.mp4)](https://khushboogoel01.github.io)
+<img alt="Project Logo" src="https://github.com/DevanandSB/DevanandSB/tree/main/Video" target="_blank" width = 360 height = 120 />
+
 
 <h1 align="center">Hi 👋, I'm Devanand S B</h1>
 <h3 align="center">Android Developer, trying to figure out stuffs</h3>
