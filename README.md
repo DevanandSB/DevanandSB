@@ -1,16 +1,20 @@
 ### Hi there 👋
+# I'm Devanand S B
+### Android Developer
 
-<!--
-**DevanandSB/DevanandSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Working at Educatie Project!
+- 🌱 I’m currently learning Advanced Android Development
+- 🤔 I’m looking for help with career 🏢
+- 👯 I’m looking to collaborate on many Open Source Projects 💖
+- 📫 How to reach me: [Email me](mailto: devanandsbofficial@gmail.com)
+- 🐈 I love cats 😸
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+<a href="#stats">
+<img align="center" alt="Devanand's Github Stats" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=DevanandSB&show_icons=true&count_private=true" />
+</a>
+  
+<a href="#stats">
+<img align="center" alt="Devanand's top languages" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=DevanandSB&layout=compact&langs_count=8" />
+</a>
