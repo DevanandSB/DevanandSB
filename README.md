@@ -47,8 +47,6 @@
 
 <h3 align="left">Stats</h3>
 
-<br />
-
 <a href="#stats">
 <img align="center" alt="Devanand's Github Stats" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=DevanandSB&show_icons=true&count_private=true" />
 </a>
