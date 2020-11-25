@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Devanand S B</h1>
+<h1 align="center">Hi 👋, I'm Devanand S B</h1>
 <h3 align="center">Android Developer, trying to figure out stuffs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevanandSB&label=Profile%20views&color=129e00&style=plastic" alt="Devanand S B" /> </p>
