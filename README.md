@@ -1,4 +1,4 @@
-<img alt="Banner" align = "center" src="https://github.com/DevanandSB/DevanandSB/blob/main/images/DevanandSB.png" target="_blank" width = 750 height = 250 />
+<img alt="Banner" display = "block" margin-left = "auto" margin-right = "auto" src="https://github.com/DevanandSB/DevanandSB/blob/main/images/DevanandSB.png" target="_blank" width = 1125 height = 375 />
 
 
 <h1 align="center">Hi 👋, I'm Devanand S B</h1>
