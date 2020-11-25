@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Advanced Android Development
 - 🤔 I’m looking for help with career 🏢
 - 👯 I’m looking to collaborate on many Open Source Projects 💖
-- 📫 How to reach me: [Email me](mailto: devanandsbofficial@gmail.com)
+- 📫 How to reach me: [Email me] (mailto: devanandsbofficial@gmail.com)
 - 🐈 I love cats 😸
 
 
