@@ -1,4 +1,4 @@
-<video alt="Project Logo" src="https://github.com/DevanandSB/DevanandSB/tree/main/Video" target="_blank" width = 360 height = 120 />
+<img alt="Project Logo" src="https://github.com/DevanandSB/DevanandSB/tree/main/images/DevanandSB.png" target="_blank" width = 360 height = 120 />
 
 
 <h1 align="center">Hi 👋, I'm Devanand S B</h1>
