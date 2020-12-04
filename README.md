@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devanand S B</h1>
 <h3 align="center">Android Developer, trying to figure out stuffs</h3>
 
+Welcome to my Github Profile :paw_prints: **warning**: bugs ahead, caution is adviced!
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DevanandSB&label=Profile%20views&color=129e00&style=plastic" alt="Devanand S B" /></p>
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
@@ -38,11 +40,10 @@
 
 ### :zap: Github Stats
 
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=DevanandSB&show_icons=true&title_color=000&icon_color=20c2e3&text_color=000000&bg_color=ffffff" alt="Devanand Github Stats" width="50%">
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=DevanandSB&show_icons=true&title_color=000&icon_color=20c2e3&text_color=000000&bg_color=ffffff" alt="Devanand Github Stats" width="60%">
 <a href="#stats">
 <img align="center" alt="Devanand top languages" src="https://github-readme-stats.sathishvm.vercel.app/api/top-langs/?username=DevanandSB&layout=compact&langs_count=8" />
 </a>
-
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
