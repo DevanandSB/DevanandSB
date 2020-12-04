@@ -37,10 +37,8 @@
 
 <h3 align="left">Stats</h3>
 
-<a href="#stats">
-<img align="center" alt="Devanand's Github Stats" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=DevanandSB&show_icons=true&count_private=true" />
-</a>
+### :zap: Github Stats
+
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=DevanandSB&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Devanand Github Stats" width="60%">
   
-<a href="#stats">
-<img align="center" alt="Devanand's top languages" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=DevanandSB&layout=compact&langs_count=8" />
-</a>
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=DevanandSB&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
