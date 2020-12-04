@@ -39,7 +39,7 @@ Welcome to my Github Profile :paw_prints: **warning**: bugs ahead, caution is ad
 
 ### :zap: Github Stats
 
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=DevanandSB&show_icons=true&title_color=000&icon_color=20c2e3&text_color=000000&bg_color=ffffff" alt="Devanand Github Stats" width="50%"> <img align="center" alt="Devanand top languages" src="https://github-readme-stats.sathishvm.vercel.app/api/top-langs/?username=DevanandSB&layout=compact&langs_count=8" />
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=DevanandSB&show_icons=true&title_color=000&icon_color=20c2e3&text_color=000000&bg_color=ffffff" alt="Devanand Github Stats" width="55%"> <img align="center" alt="Devanand top languages" src="https://github-readme-stats.sathishvm.vercel.app/api/top-langs/?username=DevanandSB&layout=compact&langs_count=8" />
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
