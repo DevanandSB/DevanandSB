@@ -35,7 +35,6 @@
 ![linux](./images/linux.svg "linux")
 ![python](./images/python.svg "python")
 
-<h3 align="left">Stats</h3>
 
 ### :zap: Github Stats
 
