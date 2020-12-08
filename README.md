@@ -43,8 +43,9 @@ Welcome to my Github Profile :paw_prints: <b>warning</b>: bugs ahead, caution is
 <img align="center" alt="Devanand top languages" src="https://github-readme-stats.sathishvm.vercel.app/api/top-langs/?username=DevanandSB&layout=compact&langs_count=8" />
 
 <br />
+<br />
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=DevanandSB&theme=none&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+<h3 align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=DevanandSB&theme=none&rank=SECRET,SSS,SS,S,AAA,AA,A,B" /></h3>
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
