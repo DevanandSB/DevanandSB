@@ -39,7 +39,11 @@ Welcome to my Github Profile :paw_prints: <b>warning</b>: bugs ahead, caution is
 
 ### :zap: Github Stats
 
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=DevanandSB&show_icons=true&title_color=000&icon_color=20c2e3&text_color=000000&bg_color=ffffff" alt="Devanand Github Stats"> <img align="center" alt="Devanand top languages" src="https://github-readme-stats.sathishvm.vercel.app/api/top-langs/?username=DevanandSB&layout=compact&langs_count=8" />
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=DevanandSB&show_icons=true&title_color=000&icon_color=20c2e3&text_color=000000&bg_color=ffffff" alt="Devanand Github Stats">
+<img align="center" alt="Devanand top languages" src="https://github-readme-stats.sathishvm.vercel.app/api/top-langs/?username=DevanandSB&layout=compact&langs_count=8" />
+
+<br />
+
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=DevanandSB&theme=none&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 <div align="center">
