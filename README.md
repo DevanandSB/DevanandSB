@@ -47,9 +47,6 @@ Welcome to my Github Profile :paw_prints: <b>warning</b>: bugs ahead, caution is
 <img align="center" alt="Devanand top languages" src="https://github-readme-stats.sathishvm.vercel.app/api/top-langs/?username=DevanandSB&layout=compact&langs_count=8" />
 </a>
 <br />
-<div align="center">
-<a href="https://www.buymeacoffee.com/SBDevanand" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 12px !important;width: 43px !important;" ></a>
-</div>
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
