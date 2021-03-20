@@ -3,7 +3,7 @@
 <br><br>
 Welcome to my Github Profile :paw_prints: <b>warning</b>: bugs ahead, caution is adviced!
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="380" src="https://github.com/DevanandSB/DevanandSB/images/dark.png">
 
 
 - 🔭 Working at Educatie Project!
