@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devanand S B</h1>
 <h3 align="center">Android Developer, trying to figure out stuffs</h3>
-<br><br>
+<br>
 <h4 align="center">Welcome to my Github Profile :paw_prints: <b>warning</b>: bugs ahead, caution is adviced!</h4>
 
 <img align="right" alt="Coding" width="380" src="https://th.bing.com/th/id/R7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3A%2F%2Fperfonec.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3D&risl=&pid=ImgRaw">
