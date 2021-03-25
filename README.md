@@ -31,16 +31,19 @@ Welcome to my Github Profile :paw_prints: <b>warning</b>: bugs ahead, caution is
       <img src="./c.svg" alt="C" width="55" height="55"/>
       <img src="./cpp.svg" alt="C++" width="55" height="55"/>
       <img src="./git.svg" alt="git" width="55" height="55"/> 
+      <br/>
       <img src="./github.svg" alt="GitHub" width="55" height="55"/>
       <img src="./mysql.svg" alt="mysql" width="55" height="55"/>
       <img src="./firebase.svg" alt="firebase" width="55" height="55"/>
       <img src="./linux.svg" alt="Linux" width="55" height="55"/>
       <img src="./debian.svg" alt="Debian" width="55" height="55"/>
+      <br/>
       <img src="./java.svg" alt="java" width="55" height="55"/>
       <img src="./python.svg" alt="python" width="55" height="55"/>
       <img src="./aws.svg" alt="aws" width="55" height="55"/>
       <img src="./azure.svg" alt="azure" width="55" height="55"/>
       <img src="./android.svg" alt="android" width="55" height="55"/>
+      <br/>
       <img src="./moodle.svg" alt="moodle" width="55" height="55"/>
       <img src="./intellij.svg" alt="Intellij" width="55" height="55"/>
       <img src="./webstorm.svg" alt="WebStorm" width="55" height="55"/>
