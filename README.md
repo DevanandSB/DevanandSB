@@ -17,9 +17,11 @@
 
 <p align="left">
 
-<a href="https://www.facebook.com/sbdevanand" target="blank"><img align="center" src="https://www.searchpng.com/wp-content/uploads/2019/03/Facebook-Icon-PNG.png" alt="Devanand S B" height="40" width="40" /></a>
-<a href="https://www.instagram.com/developer_deva/" target="blank"><img align="center" src="https://www.searchpng.com/wp-content/uploads/2020/06/Splash_Instagram_Icon_PNG.jpg" alt="Developer_Deva" height="40" width="40" /></a>
-<a href="https://in.linkedin.com/in/sbdevanand" target="blank"><img align="center" src="https://www.searchpng.com/wp-content/uploads/2019/03/Linkedin-Icon-PNG-200x200.png" alt="Devanand S B" height="40" width="40" /></a>
+<a href="https://www.facebook.com/sbdevanand" target="blank"><img align="center" src="./facebook.svg" alt="Facebook" height="40" width="40" /></a>
+<a href="https://www.instagram.com/developer_deva/" target="blank"><img align="center" src="./instagram.svg" alt="Instagram" height="40" width="40" /></a>
+<a href="https://in.linkedin.com/in/sbdevanand" target="blank"><img align="center" src="./linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://www.udemy.com/user/devanand-s-b-5/" target="blank"><img align="center" src="./udemy.svg" alt="Udemy" height="40" width="40" /></a>
+<a href="https://buymeacoffee.com/SBDevanand" target="blank"><img align="center" src="./coffee.svg" alt="Buy me a Coffee" height="40" width="40" /></a>
 
 </p>
 
