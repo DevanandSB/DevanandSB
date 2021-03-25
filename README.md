@@ -23,7 +23,7 @@
 <a href="https://t.me/SBDevanand" target="blank"><img align="center" src="./telegram.svg" alt="Buy me a Coffee" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Technologies Familiar with: </h3>
 
 <p align="center">
        <img src="./java.svg" alt="java" width="55" height="55" margin-right="10px"/>
