@@ -18,7 +18,7 @@ Welcome to my Github Profile :paw_prints: <b>warning</b>: bugs ahead, caution is
 <p align="left">
 
 <a href="https://www.facebook.com/sbdevanand" target="blank"><img align="center" src="https://www.searchpng.com/wp-content/uploads/2019/03/Facebook-Icon-PNG.png" alt="Devanand S B" height="40" width="40" /></a>
-<a href="https://www.instagram.com/developer_deva/" target="blank"><img align="center" src="https://www.dlf.pt/dfpng/middlepng/406-4062876_instagram-icon-png-image-free-download-searchpng-instagram.png" alt="Developer_Deva" height="40" width="40" /></a>
+<a href="https://www.instagram.com/developer_deva/" target="blank"><img align="center" src="https://www.searchpng.com/wp-content/uploads/2020/06/Splash_Instagram_Icon_PNG.jpg" alt="Developer_Deva" height="40" width="40" /></a>
 <a href="https://in.linkedin.com/in/sbdevanand" target="blank"><img align="center" src="https://www.searchpng.com/wp-content/uploads/2019/03/Linkedin-Icon-PNG-200x200.png" alt="Devanand S B" height="40" width="40" /></a>
 
 </p>
