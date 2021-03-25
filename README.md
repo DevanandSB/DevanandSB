@@ -25,15 +25,25 @@ Welcome to my Github Profile :paw_prints: <b>warning</b>: bugs ahead, caution is
 
 <h3 align="left">Languages and Tools:</h3>
 
-![html5](./images/html5.svg "html5")
-![css3](./images/css3.svg "css3")
-![c](./images/c.svg "c programming")
-![cplusplus](./images/cplusplus.svg "cplusplus")
-![git](./images/github.svg "github")
-![mysql](./images/mysql.svg "mysql")
-![firebase](./images/firebase.svg "firebase")
-![linux](./images/linux.svg "linux")
-![python](./images/python.svg "python")
+![html5](./html "html5")
+![css3](./css.svg "css3")
+![c](./c.svg "c programming")
+![cplusplus](./icpp.svg "cplusplus")
+![git](./git.svg "git")
+![github](./github.svg "github")
+![mysql](./mysql.svg "mysql")
+![firebase](./firebase.svg "firebase")
+![linux](./linux.svg "linux")
+![debian](./debian.svg "debian")
+![java](./java.svg "java")
+![python](./python.svg "python")
+![aws](./aws.svg "aws")
+![azure](./azure.svg "azure")
+![android](./android.svg "android")
+![moodle](./moodle.svg "moodle")
+![linux](./intellij.svg "Intellij")
+![linux](./webstorm.svg "WebStorm")
+![linux](./pycharm.svg "PyCharm")
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DevanandSB&label=Profile%20views&color=129e00&style=plastic" alt="Devanand S B" /></p>
 
