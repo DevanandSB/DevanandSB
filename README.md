@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.facebook.com/sbdevanand" target="blank"><img align="center" src="./facebook.svg" alt="Facebook" height="40" width="40" /></a>
 <a href="https://www.instagram.com/developer_deva/" target="blank"><img align="center" src="./instagram.svg" alt="Instagram" height="40" width="40" /></a>
