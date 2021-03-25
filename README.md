@@ -21,7 +21,7 @@
 <a href="https://www.instagram.com/developer_deva/" target="blank"><img align="center" src="./instagram.svg" alt="Instagram" height="40" width="40" /></a>
 <a href="https://in.linkedin.com/in/sbdevanand" target="blank"><img align="center" src="./linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://www.udemy.com/user/devanand-s-b-5/" target="blank"><img align="center" src="./udemy.svg" alt="Udemy" height="40" width="40" /></a>
-<a href="https://buymeacoffee.com/SBDevanand" target="blank"><img align="center" src="./coffee.svg" alt="Buy me a Coffee" height="40" width="40" /></a>
+<a href="https://t.me/SBDevanand" target="blank"><img align="center" src="./telegram.svg" alt="Buy me a Coffee" height="40" width="40" /></a>
 
 </p>
 
