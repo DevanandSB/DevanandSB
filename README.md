@@ -25,25 +25,28 @@ Welcome to my Github Profile :paw_prints: <b>warning</b>: bugs ahead, caution is
 
 <h3 align="left">Languages and Tools:</h3>
 
-![html5](./html.svg "html5")
-![css3](./css.svg "css3")
-![c](./c.svg "c programming")
-![cplusplus](./cpp.svg "cplusplus")
-![git](./git.svg "git")
-![github](./github.svg "github")
-![mysql](./mysql.svg "mysql")
-![firebase](./firebase.svg "firebase")
-![linux](./linux.svg "linux")
-![debian](./debian.svg "debian")
-![java](./java.svg "java")
-![python](./python.svg "python")
-![aws](./aws.svg "aws")
-![azure](./azure.svg "azure")
-![android](./android.svg "android")
-![moodle](./moodle.svg "moodle")
-![linux](./intellij.svg "Intellij")
-![linux](./webstorm.svg "WebStorm")
-![linux](./pycharm.svg "PyCharm")
+<p align="center">
+      <img src="./html.svg" alt="java" width="65" height="65"/> 
+      <img src="./css.svg" alt="python" width="55" height="55"/>
+      <img src="./c.svg" alt="html" width="55" height="55"/>
+      <img src="./cpp.svg" alt="android" width="55" height="55"/>
+      <img src="./git.svg" alt="GIT" width="55" height="55"/> 
+      <img src="./github.svg" alt="IPYNB" width="55" height="55"/>
+      <img src="./mysql.svg" alt="mysql" width="110" height="75"/>
+      <img src="./firebase.svg" alt="mysql" width="110" height="75"/>
+      <img src="./linux.svg" alt="mysql" width="110" height="75"/>
+      <img src="./java.svg" alt="mysql" width="110" height="75"/>
+      <img src="./python.svg" alt="mysql" width="110" height="75"/>
+      <img src="./aws.svg" alt="mysql" width="110" height="75"/>
+      <img src="./azure.svg" alt="mysql" width="110" height="75"/>
+      <img src="./android.svg" alt="mysql" width="110" height="75"/>
+      <img src="./moodle.svg" alt="mysql" width="110" height="75"/>
+      <img src="./intellij.svg" alt="mysql" width="110" height="75"/>
+      <img src="./webstorm.svg" alt="mysql" width="110" height="75"/>
+      <img src="./pycharm.svg" alt="mysql" width="110" height="75"/>
+
+
+</p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DevanandSB&label=Profile%20views&color=129e00&style=plastic" alt="Devanand S B" /></p>
 
