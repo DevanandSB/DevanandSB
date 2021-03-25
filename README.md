@@ -26,25 +26,25 @@ Welcome to my Github Profile :paw_prints: <b>warning</b>: bugs ahead, caution is
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-      <img src="./html.svg" alt="java" width="65" height="65"/> 
-      <img src="./css.svg" alt="python" width="55" height="55"/>
-      <img src="./c.svg" alt="html" width="55" height="55"/>
-      <img src="./cpp.svg" alt="android" width="55" height="55"/>
-      <img src="./git.svg" alt="GIT" width="55" height="55"/> 
-      <img src="./github.svg" alt="IPYNB" width="55" height="55"/>
-      <img src="./mysql.svg" alt="mysql" width="110" height="75"/>
-      <img src="./firebase.svg" alt="mysql" width="110" height="75"/>
-      <img src="./linux.svg" alt="mysql" width="110" height="75"/>
-      <img src="./java.svg" alt="mysql" width="110" height="75"/>
-      <img src="./python.svg" alt="mysql" width="110" height="75"/>
-      <img src="./aws.svg" alt="mysql" width="110" height="75"/>
-      <img src="./azure.svg" alt="mysql" width="110" height="75"/>
-      <img src="./android.svg" alt="mysql" width="110" height="75"/>
-      <img src="./moodle.svg" alt="mysql" width="110" height="75"/>
-      <img src="./intellij.svg" alt="mysql" width="110" height="75"/>
-      <img src="./webstorm.svg" alt="mysql" width="110" height="75"/>
-      <img src="./pycharm.svg" alt="mysql" width="110" height="75"/>
-
+      <img src="./html.svg" alt="HTML" width="55" height="55"/> 
+      <img src="./css.svg" alt="CSS" width="55" height="55"/>
+      <img src="./c.svg" alt="C" width="55" height="55"/>
+      <img src="./cpp.svg" alt="C++" width="55" height="55"/>
+      <img src="./git.svg" alt="git" width="55" height="55"/> 
+      <img src="./github.svg" alt="GitHub" width="55" height="55"/>
+      <img src="./mysql.svg" alt="mysql" width="55" height="55"/>
+      <img src="./firebase.svg" alt="firebase" width="55" height="55"/>
+      <img src="./linux.svg" alt="Linux" width="55" height="55"/>
+      <img src="./debian.svg" alt="Debian" width="55" height="55"/>
+      <img src="./java.svg" alt="java" width="55" height="55"/>
+      <img src="./python.svg" alt="python" width="55" height="55"/>
+      <img src="./aws.svg" alt="aws" width="55" height="55"/>
+      <img src="./azure.svg" alt="azure" width="55" height="55"/>
+      <img src="./android.svg" alt="android" width="55" height="55"/>
+      <img src="./moodle.svg" alt="moodle" width="55" height="55"/>
+      <img src="./intellij.svg" alt="Intellij" width="55" height="55"/>
+      <img src="./webstorm.svg" alt="WebStorm" width="55" height="55"/>
+      <img src="./pycharm.svg" alt="PyCharm" width="55" height="55"/>
 
 </p>
 
