@@ -25,10 +25,10 @@ Welcome to my Github Profile :paw_prints: <b>warning</b>: bugs ahead, caution is
 
 <h3 align="left">Languages and Tools:</h3>
 
-![html5](./html "html5")
+![html5](./html.svg "html5")
 ![css3](./css.svg "css3")
 ![c](./c.svg "c programming")
-![cplusplus](./icpp.svg "cplusplus")
+![cplusplus](./cpp.svg "cplusplus")
 ![git](./git.svg "git")
 ![github](./github.svg "github")
 ![mysql](./mysql.svg "mysql")
