@@ -33,7 +33,7 @@
       <img src="./debian.svg" alt="Debian" width="55" height="55" margin-right="10px"/>
       <img src="./aws.svg" alt="aws" width="55" height="55" margin-right="10px"/>
       <img src="./azure.svg" alt="azure" width="55" height="55" margin-right="10px"/>
-       <br/>
+       <br/><br/>
       <img src="./git.svg" alt="git" width="55" height="55" margin-right="10px"/>
       <img src="./github.svg" alt="GitHub" width="55" height="55" margin-right="10px"/> 
       <img src="./html.svg" alt="HTML" width="55" height="55" margin-right="10px"/> 
@@ -41,7 +41,7 @@
       <img src="./c.svg" alt="C" width="55" height="55" margin-right="10px"/>
       <img src="./cpp.svg" alt="C++" width="55" height="55" margin-right="10px"/>
       <img src="./mysql.svg" alt="mysql" width="55" height="55" margin-right="10px"/>
-      <br/>
+      <br/><br/>
       <img src="./firebase.svg" alt="firebase" width="55" height="55" margin-right="10px"/>
       <img src="./docker.svg" alt="docker" width="55" height="55" margin-right="10px"/>      
       <img src="./moodle.svg" alt="moodle" width="55" height="55" margin-right="10px"/>
