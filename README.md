@@ -55,13 +55,8 @@
 
 ### :zap: Github Stats
 
-<a href="#stats">
-<img align="center" alt="Devanand Github Stats" src="https://github-readme-stats.sathishvm.vercel.app/api?username=DevanandSB&show_icons=true&count_private=true" />
-</a>
+![Devanand S B github stats](https://github-readme-stats.vercel.app/api?username=DevanandSB&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanandSB&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/santoshsandhu/github-readme-stats)
 
-<a href="#stats">
-<img align="center" alt="Devanand top languages" src="https://github-readme-stats.sathishvm.vercel.app/api/top-langs/?username=DevanandSB&layout=compact&langs_count=8" />
-</a>
 <br />
 
 <div align="center">
