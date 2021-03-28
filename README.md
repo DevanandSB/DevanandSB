@@ -51,11 +51,11 @@
       <img src="./pycharm.svg" alt="PyCharm" width="55" height="55" margin-right="10px"/> 
 </p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=DevanandSB&label=Profile%20views&color=129e00&style=plastic" alt="Devanand S B" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=DevanandSB&label=Profile%20views&color=8ac926&style=plastic" alt="Devanand S B" /></p>
 
 ### :zap: Github Stats
 
-![Devanand S B github stats](https://github-readme-stats.vercel.app/api?username=DevanandSB&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanandSB&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/santoshsandhu/github-readme-stats)
+![Devanand S B github stats](https://github-readme-stats.vercel.app/api?username=DevanandSB&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanandSB&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DevanandSB/github-readme-stats)
 
 <br />
 
