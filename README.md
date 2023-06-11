@@ -53,10 +53,6 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DevanandSB&label=Profile%20views&color=8ac926&style=plastic" alt="Devanand S B" /></p>
 
-### :zap: Github Stats
-
-![Devanand S B github stats](https://github-readme-stats.vercel.app/api?username=DevanandSB&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanandSB&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DevanandSB/github-readme-stats)
-
 <br />
 
 <div align="center">
